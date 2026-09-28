@@ -1,0 +1,100 @@
+[
+  {
+    "theme": "phoebe-cathedral",
+    "mode": "light",
+    "mobileWidth": 390,
+    "overflow": false,
+    "images": true
+  },
+  {
+    "theme": "phoebe-cathedral",
+    "mode": "dark",
+    "mobileWidth": 390,
+    "overflow": false,
+    "images": true
+  },
+  {
+    "theme": "phoebe-notebook",
+    "mode": "light",
+    "mobileWidth": 390,
+    "overflow": false,
+    "images": true
+  },
+  {
+    "theme": "phoebe-notebook",
+    "mode": "dark",
+    "mobileWidth": 390,
+    "overflow": false,
+    "images": true
+  },
+  {
+    "theme": "phoebe-sea-glow",
+    "mode": "light",
+    "mobileWidth": 390,
+    "overflow": false,
+    "images": true
+  },
+  {
+    "theme": "phoebe-sea-glow",
+    "mode": "dark",
+    "mobileWidth": 390,
+    "overflow": false,
+    "images": true
+  },
+  {
+    "theme": "deepseek-cafe",
+    "mode": "light",
+    "mobileWidth": 390,
+    "overflow": false,
+    "images": true
+  },
+  {
+    "theme": "deepseek-cafe",
+    "mode": "dark",
+    "mobileWidth": 390,
+    "overflow": false,
+    "images": true
+  },
+  {
+    "theme": "deepseek-terminal",
+    "mode": "light",
+    "mobileWidth": 390,
+    "overflow": false,
+    "images": true
+  },
+  {
+    "theme": "deepseek-terminal",
+    "mode": "dark",
+    "mobileWidth": 390,
+    "overflow": false,
+    "images": true
+  },
+  {
+    "theme": "deepseek-press",
+    "mode": "light",
+    "mobileWidth": 390,
+    "overflow": false,
+    "images": true
+  },
+  {
+    "theme": "deepseek-press",
+    "mode": "dark",
+    "mobileWidth": 390,
+    "overflow": false,
+    "images": true
+  },
+  {
+    "theme": "deepseek-orbit",
+    "mode": "light",
+    "mobileWidth": 390,
+    "overflow": false,
+    "images": true
+  },
+  {
+    "theme": "deepseek-orbit",
+    "mode": "dark",
+    "mobileWidth": 390,
+    "overflow": false,
+    "images": true
+  }
+]

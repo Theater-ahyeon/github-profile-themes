@@ -1,0 +1,369 @@
+{
+  "login": "Theater-ahyeon",
+  "generated_at": "2026-09-28T18:53:03.725005+00:00",
+  "repositories": 22,
+  "stars": 6,
+  "contributions": 420,
+  "merged_prs": [
+    {
+      "number": 11129,
+      "title": "docs(developers): document CI and release repository variables",
+      "url": "https://github.com/QwenLM/qwen-code/pull/11129",
+      "mergedAt": "2026-09-28T10:36:46Z",
+      "repository": {
+        "nameWithOwner": "QwenLM/qwen-code",
+        "isPrivate": false,
+        "isFork": false,
+        "owner": {
+          "login": "QwenLM"
+        }
+      }
+    },
+    {
+      "number": 5897,
+      "title": "fix(subagents): terminalize batches after exhausted leases expire",
+      "url": "https://github.com/bytedance/deer-flow/pull/5897",
+      "mergedAt": "2026-09-28T07:29:18Z",
+      "repository": {
+        "nameWithOwner": "bytedance/deer-flow",
+        "isPrivate": false,
+        "isFork": false,
+        "owner": {
+          "login": "bytedance"
+        }
+      }
+    },
+    {
+      "number": 5898,
+      "title": "fix(agents): scope delegation ledger IDs to parent runs",
+      "url": "https://github.com/bytedance/deer-flow/pull/5898",
+      "mergedAt": "2026-09-27T01:50:31Z",
+      "repository": {
+        "nameWithOwner": "bytedance/deer-flow",
+        "isPrivate": false,
+        "isFork": false,
+        "owner": {
+          "login": "bytedance"
+        }
+      }
+    },
+    {
+      "number": 918,
+      "title": "fix(update): checkpoint SQLite WAL before desktop process restart",
+      "url": "https://github.com/TencentCloud/Octop/pull/918",
+      "mergedAt": "2026-09-23T07:40:44Z",
+      "repository": {
+        "nameWithOwner": "TencentCloud/Octop",
+        "isPrivate": false,
+        "isFork": false,
+        "owner": {
+          "login": "TencentCloud"
+        }
+      }
+    },
+    {
+      "number": 895,
+      "title": "docs(acp): add language identifier to bare code block",
+      "url": "https://github.com/TencentCloud/Octop/pull/895",
+      "mergedAt": "2026-09-21T06:26:11Z",
+      "repository": {
+        "nameWithOwner": "TencentCloud/Octop",
+        "isPrivate": false,
+        "isFork": false,
+        "owner": {
+          "login": "TencentCloud"
+        }
+      }
+    },
+    {
+      "number": 896,
+      "title": "docs(configuration): add password and url to database schema example",
+      "url": "https://github.com/TencentCloud/Octop/pull/896",
+      "mergedAt": "2026-09-21T06:26:07Z",
+      "repository": {
+        "nameWithOwner": "TencentCloud/Octop",
+        "isPrivate": false,
+        "isFork": false,
+        "owner": {
+          "login": "TencentCloud"
+        }
+      }
+    },
+    {
+      "number": 872,
+      "title": "docs(adr): remove broken related links in ADR 002",
+      "url": "https://github.com/TencentCloud/Octop/pull/872",
+      "mergedAt": "2026-09-21T02:54:27Z",
+      "repository": {
+        "nameWithOwner": "TencentCloud/Octop",
+        "isPrivate": false,
+        "isFork": false,
+        "owner": {
+          "login": "TencentCloud"
+        }
+      }
+    },
+    {
+      "number": 873,
+      "title": "docs(readme): fix broken TOC anchor links in README.md and README_CN.md",
+      "url": "https://github.com/TencentCloud/Octop/pull/873",
+      "mergedAt": "2026-09-21T02:54:24Z",
+      "repository": {
+        "nameWithOwner": "TencentCloud/Octop",
+        "isPrivate": false,
+        "isFork": false,
+        "owner": {
+          "login": "TencentCloud"
+        }
+      }
+    },
+    {
+      "number": 875,
+      "title": "docs(agents): fix broken CONTRIBUTING.md links in technical-writer subagents",
+      "url": "https://github.com/TencentCloud/Octop/pull/875",
+      "mergedAt": "2026-09-21T02:54:19Z",
+      "repository": {
+        "nameWithOwner": "TencentCloud/Octop",
+        "isPrivate": false,
+        "isFork": false,
+        "owner": {
+          "login": "TencentCloud"
+        }
+      }
+    },
+    {
+      "number": 10160,
+      "title": "[fix] replace dead links in cookbook knowledge sources and docs references",
+      "url": "https://github.com/agno-agi/agno/pull/10160",
+      "mergedAt": "2026-09-20T21:32:49Z",
+      "repository": {
+        "nameWithOwner": "agno-agi/agno",
+        "isPrivate": false,
+        "isFork": false,
+        "owner": {
+          "login": "agno-agi"
+        }
+      }
+    },
+    {
+      "number": 7435,
+      "title": "fix(cli): don't crash the run TUI when streamed output contains a literal [...]",
+      "url": "https://github.com/crewAIInc/crewAI/pull/7435",
+      "mergedAt": "2026-09-14T15:11:34Z",
+      "repository": {
+        "nameWithOwner": "crewAIInc/crewAI",
+        "isPrivate": false,
+        "isFork": false,
+        "owner": {
+          "login": "crewAIInc"
+        }
+      }
+    },
+    {
+      "number": 5409,
+      "title": "docs(zh): add the missing Project Membership section to README_zh",
+      "url": "https://github.com/bytedance/deer-flow/pull/5409",
+      "mergedAt": "2026-09-13T23:23:23Z",
+      "repository": {
+        "nameWithOwner": "bytedance/deer-flow",
+        "isPrivate": false,
+        "isFork": false,
+        "owner": {
+          "login": "bytedance"
+        }
+      }
+    },
+    {
+      "number": 226,
+      "title": "fix(settings): \u8bbe\u7f6e\u6587\u4ef6\u635f\u574f\u65f6\u9694\u79bb\u5e76\u91cd\u5efa\u9ed8\u8ba4\u503c\uff0c\u907f\u514d\u65e0\u6cd5\u542f\u52a8 (#205)",
+      "url": "https://github.com/Darkatse/TauriTavern/pull/226",
+      "mergedAt": "2026-09-11T23:45:11Z",
+      "repository": {
+        "nameWithOwner": "Darkatse/TauriTavern",
+        "isPrivate": false,
+        "isFork": false,
+        "owner": {
+          "login": "Darkatse"
+        }
+      }
+    },
+    {
+      "number": 5230,
+      "title": "docs(zh): add the missing Request Trace Correlation section to README_zh",
+      "url": "https://github.com/bytedance/deer-flow/pull/5230",
+      "mergedAt": "2026-09-06T08:22:53Z",
+      "repository": {
+        "nameWithOwner": "bytedance/deer-flow",
+        "isPrivate": false,
+        "isFork": false,
+        "owner": {
+          "login": "bytedance"
+        }
+      }
+    },
+    {
+      "number": 5222,
+      "title": "docs(zh): add the missing LangGraph Studio section to README_zh",
+      "url": "https://github.com/bytedance/deer-flow/pull/5222",
+      "mergedAt": "2026-09-06T08:22:47Z",
+      "repository": {
+        "nameWithOwner": "bytedance/deer-flow",
+        "isPrivate": false,
+        "isFork": false,
+        "owner": {
+          "login": "bytedance"
+        }
+      }
+    },
+    {
+      "number": 5215,
+      "title": "fix(tests): preload sandbox leaf modules before mocking their parent package",
+      "url": "https://github.com/bytedance/deer-flow/pull/5215",
+      "mergedAt": "2026-09-06T02:39:18Z",
+      "repository": {
+        "nameWithOwner": "bytedance/deer-flow",
+        "isPrivate": false,
+        "isFork": false,
+        "owner": {
+          "login": "bytedance"
+        }
+      }
+    },
+    {
+      "number": 5211,
+      "title": "fix(tests): make three backend test modules runnable on Windows hosts",
+      "url": "https://github.com/bytedance/deer-flow/pull/5211",
+      "mergedAt": "2026-09-06T02:33:41Z",
+      "repository": {
+        "nameWithOwner": "bytedance/deer-flow",
+        "isPrivate": false,
+        "isFork": false,
+        "owner": {
+          "login": "bytedance"
+        }
+      }
+    },
+    {
+      "number": 5210,
+      "title": "fix(tests): make test_list_by_thread independent of host clock granularity",
+      "url": "https://github.com/bytedance/deer-flow/pull/5210",
+      "mergedAt": "2026-09-06T02:10:08Z",
+      "repository": {
+        "nameWithOwner": "bytedance/deer-flow",
+        "isPrivate": false,
+        "isFork": false,
+        "owner": {
+          "login": "bytedance"
+        }
+      }
+    },
+    {
+      "number": 10851,
+      "title": "docs(web-shell): align follow-up suggestion copy",
+      "url": "https://github.com/QwenLM/qwen-code/pull/10851",
+      "mergedAt": "2026-09-04T05:13:58Z",
+      "repository": {
+        "nameWithOwner": "QwenLM/qwen-code",
+        "isPrivate": false,
+        "isFork": false,
+        "owner": {
+          "login": "QwenLM"
+        }
+      }
+    },
+    {
+      "number": 1349,
+      "title": "feat(skin-center): add phoebe-atelier radiant strings atelier skin",
+      "url": "https://github.com/zhu1090093659/dsh-web/pull/1349",
+      "mergedAt": "2026-09-02T23:40:27Z",
+      "repository": {
+        "nameWithOwner": "zhu1090093659/dsh-web",
+        "isPrivate": false,
+        "isFork": false,
+        "owner": {
+          "login": "zhu1090093659"
+        }
+      }
+    },
+    {
+      "number": 5151,
+      "title": "docs(zh): add missing scheduled-task upgrade notes",
+      "url": "https://github.com/bytedance/deer-flow/pull/5151",
+      "mergedAt": "2026-09-02T23:33:00Z",
+      "repository": {
+        "nameWithOwner": "bytedance/deer-flow",
+        "isPrivate": false,
+        "isFork": false,
+        "owner": {
+          "login": "bytedance"
+        }
+      }
+    },
+    {
+      "number": 5150,
+      "title": "docs(zh): add missing Agentic Browser Control section",
+      "url": "https://github.com/bytedance/deer-flow/pull/5150",
+      "mergedAt": "2026-09-02T23:26:32Z",
+      "repository": {
+        "nameWithOwner": "bytedance/deer-flow",
+        "isPrivate": false,
+        "isFork": false,
+        "owner": {
+          "login": "bytedance"
+        }
+      }
+    },
+    {
+      "number": 1324,
+      "title": "feat(dsh-pet): add starry-doll sprite2d pet",
+      "url": "https://github.com/zhu1090093659/dsh-web/pull/1324",
+      "mergedAt": "2026-09-01T10:58:31Z",
+      "repository": {
+        "nameWithOwner": "zhu1090093659/dsh-web",
+        "isPrivate": false,
+        "isFork": false,
+        "owner": {
+          "login": "zhu1090093659"
+        }
+      }
+    },
+    {
+      "number": 1316,
+      "title": "feat(skins): add stellar-diva, starry-nocturne, hologram-sanctum, abyssal-serenade skins",
+      "url": "https://github.com/zhu1090093659/dsh-web/pull/1316",
+      "mergedAt": "2026-09-01T00:30:52Z",
+      "repository": {
+        "nameWithOwner": "zhu1090093659/dsh-web",
+        "isPrivate": false,
+        "isFork": false,
+        "owner": {
+          "login": "zhu1090093659"
+        }
+      }
+    },
+    {
+      "number": 4875,
+      "title": "docs: fix idempotent tool hint wording",
+      "url": "https://github.com/PrefectHQ/fastmcp/pull/4875",
+      "mergedAt": "2026-08-26T22:18:18Z",
+      "repository": {
+        "nameWithOwner": "PrefectHQ/fastmcp",
+        "isPrivate": false,
+        "isFork": false,
+        "owner": {
+          "login": "PrefectHQ"
+        }
+      }
+    }
+  ],
+  "projects": {
+    "QwenLM/qwen-code": 2,
+    "bytedance/deer-flow": 10,
+    "TencentCloud/Octop": 6,
+    "agno-agi/agno": 1,
+    "crewAIInc/crewAI": 1,
+    "Darkatse/TauriTavern": 1,
+    "zhu1090093659/dsh-web": 3,
+    "PrefectHQ/fastmcp": 1
+  }
+}

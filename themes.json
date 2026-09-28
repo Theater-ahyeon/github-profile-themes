@@ -1,0 +1,139 @@
+[
+  {
+    "id": "phoebe-cathedral",
+    "name": "辉弦圣堂",
+    "en": "Radiant Cathedral",
+    "desc": "白金圣光、蓝色彩窗与古典衬线字体。",
+    "font": "Georgia,serif",
+    "light": [
+      "#FAF9F5",
+      "#172D50",
+      "#92703A",
+      "#DED7C6"
+    ],
+    "dark": [
+      "#101A2C",
+      "#F7F5EE",
+      "#D9C089",
+      "#36465E"
+    ]
+  },
+  {
+    "id": "phoebe-notebook",
+    "name": "菲比贴纸手账",
+    "en": "Phoebe Notebook",
+    "desc": "奶油方格纸、Q 版菲比、蓝紫便签和圆角纸卡。",
+    "font": "Arial,sans-serif",
+    "light": [
+      "#FFF9EC",
+      "#353347",
+      "#7960A0",
+      "#E3DFD4"
+    ],
+    "dark": [
+      "#242636",
+      "#F7F0DC",
+      "#C6B4EF",
+      "#44485E"
+    ]
+  },
+  {
+    "id": "phoebe-sea-glow",
+    "name": "海风暮光",
+    "en": "Sea Glow",
+    "desc": "海边暮光、留白排版与克制的香槟色细线。",
+    "font": "Georgia,serif",
+    "light": [
+      "#F4F6F7",
+      "#22394B",
+      "#836C42",
+      "#D4DDE2"
+    ],
+    "dark": [
+      "#142235",
+      "#F0F2F3",
+      "#D4BF97",
+      "#36495C"
+    ]
+  },
+  {
+    "id": "deepseek-cafe",
+    "name": "奶茶休息站",
+    "en": "Token Tea Club",
+    "desc": "焦糖与奶油色、咖啡馆菜单、奶茶补给和票据装饰。",
+    "font": "Georgia,serif",
+    "source": "1279.webp",
+    "light": [
+      "#FFF3DF",
+      "#4A3029",
+      "#AD573F",
+      "#D9B798"
+    ],
+    "dark": [
+      "#302721",
+      "#FBECD4",
+      "#EBAA89",
+      "#665043"
+    ]
+  },
+  {
+    "id": "deepseek-terminal",
+    "name": "终端工作台",
+    "en": "Whale Terminal",
+    "desc": "薄荷绿命令行、等宽字体与正在思考的蓝鲸助手。",
+    "font": "Consolas,monospace",
+    "source": "003.webp",
+    "light": [
+      "#EDF5F0",
+      "#183F34",
+      "#206B51",
+      "#AEC8BC"
+    ],
+    "dark": [
+      "#101D1C",
+      "#D6F6E8",
+      "#74DCAD",
+      "#33594D"
+    ]
+  },
+  {
+    "id": "deepseek-press",
+    "name": "开发者小报",
+    "en": "The Context Times",
+    "desc": "报纸栏线、超长上下文梗图、刊号与编辑部式排版。",
+    "font": "Georgia,serif",
+    "source": "257.webp",
+    "light": [
+      "#F5F1E7",
+      "#292B2D",
+      "#AD423C",
+      "#BFB8AC"
+    ],
+    "dark": [
+      "#282829",
+      "#EFEBE1",
+      "#ED978B",
+      "#626264"
+    ]
+  },
+  {
+    "id": "deepseek-orbit",
+    "name": "鲸鱼太空舱",
+    "en": "Whale Orbit",
+    "desc": "轨道弧线、发射面板、火箭鲸鱼与蓝橙对比。",
+    "font": "Arial,sans-serif",
+    "source": "ekQ35-8jlfZbT3cSmr-sg.jpg",
+    "light": [
+      "#EEF3FB",
+      "#172B4A",
+      "#996023",
+      "#B9C9DF"
+    ],
+    "dark": [
+      "#101B31",
+      "#EAF2FF",
+      "#EDB675",
+      "#354A6B"
+    ]
+  }
+]
