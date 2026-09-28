@@ -67,4 +67,3 @@ def fetch():
     return dict(login=LOGIN, generated_at=datetime.now(timezone.utc).isoformat(),
                 repositories=len(repos), stars=sum(repo['stargazers_count'] for repo in repos),
                 contributions=calendar['totalContributions'], merged_prs=prs, projects=projects)
-
