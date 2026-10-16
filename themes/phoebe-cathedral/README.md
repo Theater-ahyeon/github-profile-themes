@@ -37,7 +37,7 @@
 
 **Selected merged PRs**
 
-- **bytedance/deer-flow** — [fix(subagents): terminalize batches after exhausted leases expire #5897](https://github.com/bytedance/deer-flow/pull/5897)
+- **bytedance/deer-flow** — [fix(e2b): grep literal patterns verbatim instead of re-escaped #6952](https://github.com/bytedance/deer-flow/pull/6952)
 - **TencentCloud/Octop** — [fix(update): checkpoint SQLite WAL before desktop process restart #918](https://github.com/TencentCloud/Octop/pull/918)
 - **crewAIInc/crewAI** — [fix(cli): don't crash the run TUI when streamed output contains a literal \[...\] #7435](https://github.com/crewAIInc/crewAI/pull/7435)
 
